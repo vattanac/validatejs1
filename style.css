@@ -1,0 +1,31 @@
+form label {
+    display: inline-block;
+    width: 100px;
+  }
+   
+  form div {
+    margin-bottom: 10px;
+  }
+   
+  .error {
+    color: red;
+    margin-left: 5px;
+  }
+   
+  label.error {
+    display: inline;
+  }
+  .redspace{
+    color: red;
+    margin-left: 5px;
+  }
+  .TextOnly{
+    color: red;
+    margin-left: 5px;
+  }
+  .emsg{
+    color: red;
+}
+.hidden {
+     visibility:hidden;
+}
